@@ -51,9 +51,9 @@ Built a secure, full-stack platform to connect patients and therapists, with vid
 
 ### 🎮 Fun Facts
 
-- 🎲 Founded the Özyeğin Game Development Club  
-- ♟️ Ranked in top 33 in Turkey Chess Tournament 
-- 🧠 Passionate about creating indie tools that automate painful workflows
+-  Founded the Özyeğin Game Development Club  
+-  Ranked in top 33 in Turkey Chess Tournament 
+-  Passionate about creating indie tools that automate painful workflows
 
 ---
 
