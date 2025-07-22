@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Can 👋</h1>
 <p align="center">
-  <b>Computer Science & Engineering Graduate | AI & Software Developer | Data Scientis & Analyst | Game Dev Enthusiast</b>
+  <b>Computer Science & Engineering Graduate | AI & Software Developer | Data Scientist & Analyst | Game Dev Enthusiast</b>
 </p>
 
 ---
