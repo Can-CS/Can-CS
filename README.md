@@ -59,7 +59,7 @@ Built a secure, full-stack platform to connect patients and therapists, with vid
 
 ### 📫 Contact Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/cansevgican)
+- 💼 [LinkedIn](https://www.linkedin.com/in/can-çağatay-sevgican-a16433213/)
 - 💻 [GitHub](https://github.com/Can-CS)
 - 📧 Email: cancagatay2002@gmail.com
 
