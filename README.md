@@ -17,7 +17,7 @@
 - **Languages:** Python, Java, C++, Dart, C#, Flutter, HTML/CSS
 - **AI & ML:** Reinforcement Learning, MCTS, Neural Nets (PyTorch, TensorFlow)
 - **Tools:** Docker, Git, IntelliJ, VS Code, Firebase, SQL, Elasticsearch, ROS
-- **Concepts:** Distributed Systems, Refactoring, Computer Graphics, Cryptography, App Dev
+- **Concepts:** Distributed Systems, Database, Refactoring, Computer Graphics, Cryptography, App Dev
 
 ---
 
